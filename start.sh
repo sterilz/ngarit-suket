@@ -1,1 +1,1 @@
-sudo screen && cd ~/ngarit-suket && docker-compose up
+cd ~/ngarit-suket && docker-compose up
