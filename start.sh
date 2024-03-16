@@ -1,1 +1,1 @@
-cd ~/ngarit-suket && docker compose up
+screen && cd ~/ngarit-suket && docker-compose up

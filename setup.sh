@@ -1,5 +1,6 @@
 apt-get update
-apt-get install docker
-apt-get install docker-compose
+apt-get -y install docker
+apt-get -y install docker-compose
+mkdir /chromium-grass
 chmod a+x ~/ngarit-suket/start.sh
 ~/ngarit-suket/start.sh

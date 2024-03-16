@@ -1,4 +1,4 @@
-name: grass-passive-income
+name: ngarit-suket
 services:
   chromium:
     container_name: chromiumv2
